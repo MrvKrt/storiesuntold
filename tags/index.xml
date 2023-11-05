@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Stories Untold</title>
+    <link>https://mrvkrt.github.io/storiesuntold/tags/</link>
+    <description>Recent content in Tags on Stories Untold</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© MrvKrt</copyright>
+    <lastBuildDate>Sun, 18 Mar 2018 12:13:32 +0530</lastBuildDate><atom:link href="https://mrvkrt.github.io/storiesuntold/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Procrastinating</title>
+      <link>https://mrvkrt.github.io/storiesuntold/tags/procrastinating/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:32 +0530</pubDate>
+      
+      <guid>https://mrvkrt.github.io/storiesuntold/tags/procrastinating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space</title>
+      <link>https://mrvkrt.github.io/storiesuntold/tags/space/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:30 +0530</pubDate>
+      
+      <guid>https://mrvkrt.github.io/storiesuntold/tags/space/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
